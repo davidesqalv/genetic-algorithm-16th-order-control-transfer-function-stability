@@ -1,4 +1,4 @@
-# genetic-algorithm-16th-order-control-transfer-function-stability
+# Stabilizing a control 16th order transfer function with genetic algorithms
 Stabilizing a 16th order control system with genetic algorithms, while also aiming for a 20% overshoot on 1 second after start
 
 
